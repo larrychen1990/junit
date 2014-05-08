@@ -169,6 +169,7 @@
                     </execution>
                 </executions>
             </plugin>
+            
             <plugin>
                 <!--
                 Updates Version#id().
